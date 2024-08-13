@@ -22,6 +22,15 @@ Podrás ver algunos de mis trabajos desarrollados durante el proceso de evoluci�
 
 ---
 
+### Contacta conmigo
+
+[![Email](https://img.shields.io/badge/e.aranda.re@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=952b22)](mailto:e.aranda.re@gmail.com) <br>
+[![LinkedIn](https://img.shields.io/badge/Esteban_Aranda-073c70?style=for-the-badge&label=LinkedIn&labelColor=%230A66C2)](https://linkedin.com/in/esteban-aranda)
+
+---
+
+
+
 <!--
 **Esarre/Esarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
