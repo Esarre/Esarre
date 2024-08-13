@@ -1,5 +1,8 @@
-### <h1>Hola, soy Esteban, aprendiz para desarrollador Full-Stack con Phyton!</h1> 
+### <h1>Hola Mundo, Esarre los saluda!</h1> 
 
+Me presento: Mi nombre es Esteban y vivo en Valparaíso, Chile. De profesión soy Ingeniero Agrónomo y actualmente, un iniciado en el mundo del desarrollo Front-End con Python/Django. Mi motivación es seguir aprendiendo e interiorizándome en el mundo de la programación, ya que me ha cautivado, y por qué no en un futuro cercano dedicarme profesionalmente en un área TI.
+
+Podrás ver algunos de mis trabajos desarrollados durante el proceso de evolución que tuve en el bootcamp que me ha enseñado sobre Django en los repositorios que puedes visitar, como también te invito a ver mi página de Linkedin si deseas conocer más sobre mi experiencia laboral en general.
 <!--
 **Esarre/Esarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
