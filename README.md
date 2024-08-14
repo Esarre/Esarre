@@ -9,8 +9,6 @@ Podr√°s ver algunos de mis trabajos desarrollados durante el proceso de evoluci√
 
 ### Conocimientos iniciales
 
-![Python2](https://img.shields.io/badge/PYTHON-ff5733?logo=python&logoColor=white) <br>
-
 ![Python](https://img.shields.io/badge/PYTHON-%233776AB?logo=python&logoColor=white&labelColor=%23265176) <br>
 ![Django](https://img.shields.io/badge/DJANGO-%23092E20?logo=django&logoColor=white&labelColor=156547) <br>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&labelColor=a43a1d) <br>
