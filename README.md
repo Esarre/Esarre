@@ -1,9 +1,9 @@
 ### <h1>Hola Mundo, Esarre los saluda! :wave: </h1>
 
 ### Me presento
-Mi nombre es Esteban y vivo en Valparaíso, Chile. De profesión soy Ingeniero Agrónomo y, actualmente, un iniciado en el mundo de la Tecnologías de la Investigación. Mi motivación es seguir aprendiendo e interiorizándome en el mundo de la seguridad, ya que me ha cautivado, y por qué no en un futuro cercano dedicarme profesionalmente en este área del conocimiento.
+Mi nombre es Esteban y vivo en Valparaíso, Chile. De profesión soy Ingeniero Agrónomo y, actualmente, un iniciado en el mundo de la Ciberseguridad. Mi motivación es seguir aprendiendo e interiorizándome en el mundo de la seguridad de la información, ya que me ha cautivado, y por qué no en un futuro cercano dedicarme profesionalmente en este área del conocimiento.
 
-Podrás ver algunos de mis trabajos desarrollados durante el proceso de evolución que tuve en el bootcamp que me ha enseñado sobre Django en los repositorios que puedes visitar, como también te invito a ver mi página de Linkedin si deseas conocer más sobre mi experiencia laboral en general.
+Podrás ver algunos de mis trabajos desarrollados durante el proceso de evolución que tuve durante mi instrucción, como también te invito a ver mi página de Linkedin si deseas conocer más sobre mi experiencia laboral en general.
 
 ---
 
