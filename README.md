@@ -1,9 +1,9 @@
 ### <h1>Hola Mundo, Esarre los saluda! :wave: </h1>
 
 ### Me presento
-Mi nombre es Esteban y vivo en Valparaíso, Chile. De profesión soy Ingeniero Agrónomo y, actualmente, un iniciado en el mundo de la Ciberseguridad. Mi motivación es seguir aprendiendo e interiorizándome en el mundo de la seguridad de la información, ya que me ha cautivado, y por qué no en un futuro cercano dedicarme profesionalmente en este área del conocimiento.
+Mi nombre es Esteban, nacido en Chile. De profesión soy Ingeniero Agrónomo y, actualmente, un iniciado en el mundo de la Ciberseguridad. Mi motivación es seguir aprendiendo e interiorizándome en el mundo de la seguridad de la información, ya que me ha cautivado, y por qué no en un futuro cercano dedicarme profesionalmente en este área del conocimiento.
 
-Mi principal objetivo es obtener un trabajo de nivel inicial, donde pueda llevar a la pr[actica lo aprendido y también tener la posibilidad de seguir aprendiendo de personas profesionales, con experiencia.
+Mi principal objetivo es obtener un trabajo de nivel inicial, donde pueda llevar a la práctica lo aprendido y también tener la posibilidad de seguir aprendiendo de profesionales.
 
 Podrás ver algunos de mis trabajos desarrollados durante el proceso de evolución que tuve durante mi instrucción, como también te invito a ver mi página de Linkedin si deseas conocer más sobre mi experiencia laboral en general.
 
