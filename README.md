@@ -8,7 +8,7 @@ Podr√°s ver algunos de mis trabajos desarrollados durante el proceso de evoluci√
 ---
 
 ### Conocimientos iniciales
-
+<!--
 ![Python](https://img.shields.io/badge/PYTHON-%233776AB?logo=python&logoColor=white&labelColor=%23265176) <br>
 ![Django](https://img.shields.io/badge/DJANGO-%23092E20?logo=django&logoColor=white&labelColor=156547) <br>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&labelColor=a43a1d) <br>
@@ -20,7 +20,9 @@ Podr√°s ver algunos de mis trabajos desarrollados durante el proceso de evoluci√
 ![SQLITE](https://img.shields.io/badge/SQLITE-%23003B57?logo=sqlite&logoColor=white&labelColor=002537) <br>
 ![GIT](https://img.shields.io/badge/GIT-%23F05032?logo=git&logoColor=white&labelColor=8a2e1d) <br>
 
+-->
 ---
+
 
 ### Contacta conmigo
 
