@@ -11,14 +11,14 @@ Podrás ver algunos de mis trabajos desarrollados durante el proceso de evoluci�
 
 ### Conocimientos iniciales 🧠
 <div class=flex>
-  <div align=center; display="inline=block">
+  <span align=center>
     <img width="50" height="50" alt="packettracer" src="https://symbols.getvecta.com/stencil_240/126_layer-3-switch.ea79d2acb9.svg" />
     <p>Packet Tracer</p>
-  <div>
-  <div class=center; display="inline=block">
+  </span>
+  <span class=center>
     <img width="50" height="50" alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
     <p>Wireshark</p>
-  </div>
+  </span>
 </div>
 
 
