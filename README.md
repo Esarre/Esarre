@@ -21,7 +21,7 @@ Podr√°s ver algunos de mis trabajos desarrollados durante el proceso de evoluci√
       <p>Wireshark</p>
     </td>
     <td align="center">
-      <img width="65" height="65" alt="KaliLinux" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kali-linux.png" />
+      <img width="64" height="64" alt="KaliLinux" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kali-linux.png" />
       <p>Kali Linux</p>
     </td>
 </table>
