@@ -1,6 +1,6 @@
 <h1>Hola Mundo, Esarre los saluda! :wave: </h1>
 
-### Me presento
+### Me presento 🙋‍♂️
 Mi nombre es Esteban, de profesión Ingeniero Agrónomo y, actualmente, un iniciado en el mundo de la Ciberseguridad. Mi motivación es seguir aprendiendo e interiorizándome en el mundo de la seguridad de la información, ya que me ha cautivado, y por qué no en un futuro cercano dedicarme profesionalmente en este área del conocimiento.
 
 Mi principal objetivo es obtener un trabajo de nivel inicial, donde pueda llevar a la práctica lo aprendido y también tener la posibilidad de seguir aprendiendo de profesionales.
@@ -9,7 +9,7 @@ Podrás ver algunos de mis trabajos desarrollados durante el proceso de evoluci�
 
 ---
 
-### Conocimientos iniciales
+### Conocimientos iniciales 🧠
 <!--
 ![Python](https://img.shields.io/badge/PYTHON-%233776AB?logo=python&logoColor=white&labelColor=%23265176) <br>
 ![Django](https://img.shields.io/badge/DJANGO-%23092E20?logo=django&logoColor=white&labelColor=156547) <br>
@@ -26,7 +26,7 @@ Podrás ver algunos de mis trabajos desarrollados durante el proceso de evoluci�
 ---
 
 
-### Contacta conmigo
+### Contacta conmigo 
 
 [![Email](https://img.shields.io/badge/e.aranda.re@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=952b22)](mailto:e.aranda.re@gmail.com) <br>
 [![LinkedIn](https://img.shields.io/badge/Esteban_Aranda-073c70?style=for-the-badge&label=LinkedIn&labelColor=%230A66C2)](https://linkedin.com/in/esteban-aranda)
