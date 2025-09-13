@@ -24,6 +24,10 @@ Podr√°s ver algunos de mis trabajos desarrollados durante el proceso de evoluci√
       <img width="63" height="63" alt="KaliLinux" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kali-linux.png" />
       <p>Kali Linux</p>
     </td>
+    <td align="center">
+      <img width="50" height="50" alt="Wazuh" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Wazuh-Logo-2022.png" />
+    </td>
+  </tr>
 </table>
 
 
