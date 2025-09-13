@@ -11,7 +11,7 @@ Podrás ver algunos de mis trabajos desarrollados durante el proceso de evoluci�
 
 ### Conocimientos iniciales 🧠
 
-<img width="300" height="300" alt="packettracer" src="https://symbols.getvecta.com/stencil_240/126_layer-3-switch.ea79d2acb9.svg" />
+<img width="150" height="150" alt="packettracer" src="https://symbols.getvecta.com/stencil_240/126_layer-3-switch.ea79d2acb9.svg" />
 
 
 <!--
