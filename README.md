@@ -15,6 +15,10 @@ Podr√°s ver algunos de mis trabajos desarrollados durante el proceso de evoluci√
     <img width="50" height="50" alt="packettracer" src="https://symbols.getvecta.com/stencil_240/126_layer-3-switch.ea79d2acb9.svg" />
     <p>Packet Tracer</p>
   <div>
+  <div>
+    <img width="50" height="50" alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
+    <p>Wireshark</p>
+  </div>
 </div>
 
 
