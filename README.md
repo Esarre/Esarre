@@ -10,6 +10,10 @@ Podrás ver algunos de mis trabajos desarrollados durante el proceso de evoluci�
 ---
 
 ### Conocimientos iniciales 🧠
+
+<img width="300" height="300" alt="packettracer" src="https://symbols.getvecta.com/stencil_240/126_layer-3-switch.ea79d2acb9.svg" />
+
+
 <!--
 ![Python](https://img.shields.io/badge/PYTHON-%233776AB?logo=python&logoColor=white&labelColor=%23265176) <br>
 ![Django](https://img.shields.io/badge/DJANGO-%23092E20?logo=django&logoColor=white&labelColor=156547) <br>
