@@ -10,7 +10,7 @@ Podrás ver algunos de mis trabajos desarrollados durante el proceso de evoluci�
 ---
 
 ### Conocimientos iniciales 🧠
-<div class=contenedor-flexbox>
+<div class=flex>
   <div align=center; display="inline=block">
     <img width="50" height="50" alt="packettracer" src="https://symbols.getvecta.com/stencil_240/126_layer-3-switch.ea79d2acb9.svg" />
     <p>Packet Tracer</p>
