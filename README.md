@@ -20,6 +20,11 @@ Podr√°s ver algunos de mis trabajos desarrollados durante el proceso de evoluci√
       <img width="50" height="50" alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
       <p>Wireshark</p>
     </td>
+    <td align="center">
+      <img width="50" height="50" alt="KaliLinux" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kali-linux.png" />
+" />
+" />
+" />
 </table>
 
 
