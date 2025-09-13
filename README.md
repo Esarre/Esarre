@@ -25,7 +25,8 @@ Podr√°s ver algunos de mis trabajos desarrollados durante el proceso de evoluci√
       <p>Kali Linux</p>
     </td>
     <td align="center">
-      <img width="50" height="50" alt="Wazuh" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Wazuh-2022-Logo.svg" />
+      <img width="50" height="50" alt="Wazuh" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wazuh_blue.png" />
+      <p>Wazuh</p>
     </td>
   </tr>
 </table>
