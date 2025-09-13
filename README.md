@@ -16,13 +16,13 @@ Podr√°s ver algunos de mis trabajos desarrollados durante el proceso de evoluci√
       <img width="50" height="50" alt="packettracer" src="https://symbols.getvecta.com/stencil_240/126_layer-3-switch.ea79d2acb9.svg" />
       <p>Packet Tracer</p>
     </td>
+     <td align="center">
+      <img width="61" height="61" alt="KaliLinux" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kali-linux.png" />
+      <p>Kali Linux</p>
+    </td>
     <td align="center">
       <img width="50" height="50" alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
       <p>Wireshark</p>
-    </td>
-    <td align="center">
-      <img width="61" height="61" alt="KaliLinux" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kali-linux.png" />
-      <p>Kali Linux</p>
     </td>
     <td align="center">
       <img width="50" height="50" alt="Wazuh" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wazuh_blue.png" />
